@@ -1,0 +1,1 @@
+{"type":"immersiveengineering:blueprint","category":"molds","inputs":[{"base_ingredient":{"tag":"forge:plates/iron"},"count":3},{"item":"immersiveengineering:wirecutter"}],"result":{"item":"ae2:logic_processor_press"}}

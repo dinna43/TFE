@@ -1,0 +1,9 @@
+{
+  "type": "ae2:charger",
+  "ingredient": {
+    "item": "immersiveengineering:dust_electrum"
+  },
+  "result": {
+    "item": "minecraft:glowstone_dust"
+  }
+}

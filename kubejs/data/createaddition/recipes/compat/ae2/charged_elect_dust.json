@@ -1,0 +1,16 @@
+{
+	"type":"createaddition:charging",
+	"input": {
+      	"item": "immersiveengineering:dust_electrum",
+		"count": 1
+	},
+	"result": {
+		"item": "minecraft:glowstone_dust",
+		"count": 1
+	},
+	"energy": 10000,
+  	"conditions": [{
+    	"type": "forge:mod_loaded",
+    	"modid": "immersiveengineering"
+	}]
+}
